@@ -1,0 +1,14 @@
+{
+    "plugins": [
+        "-lunr", "-search", "search-pro",
+        "expandable-chapters","chapter-fold","splitter",
+        "back-to-top-button","copy-code-button",
+        "page-treeview","page-toc-button"
+    ],
+    "pluginsConfig":{
+        "page-treeview":{
+            "minHeaderCount": "2",
+            "minHeaderDeep": "3"
+        }
+    }
+}
